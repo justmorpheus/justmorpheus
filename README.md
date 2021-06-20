@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Automation,Cloud, Container, Javascript
 - 💞️ I’m looking to collaborate on Burp Automation
 - 📫 How to reach me justmorpheus@protonmail.com
-- I have forked https://github.com/justm0rph3u5 , which is my reporsitory for forking security tools.
+- 📫 I have forked https://github.com/justm0rph3u5 , which is my reporsitory for forking security tools.
 
 
 <!---
