@@ -1,6 +1,9 @@
 ### 👋 Hi, I’m @justmorpheus, this repository is for my technical blogs.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Information Security, Cloud Security;Python;Automation, DevSecops, SIEM)](https://git.io/typing-svg) 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cloud;Programming;CyberSecurity)](https://git.io/typing-svg)
+
+
 - 🌱 I’m currently learning Automation,Cloud (Azure, GCP & AWS), Container, Javascript.
 - 💞️ I’m looking to collaborate on Cloud WAF, Burp Automation & Cloud Security
 - 📫 How to reach me justmorpheus@protonmail.com.
