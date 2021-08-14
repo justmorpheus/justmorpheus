@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @justmorpheus, this repository is for my technical blogs.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Information-Security;Cloud Security;Python;Automation;DevSecops;SIEM)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Information-Security;Cloud Security)](https://git.io/typing-svg) 
 
 
 
