@@ -44,11 +44,11 @@
      - k8/Docker
   
 
-- 👨‍💻 Programming Languages
+- 👨‍💻 Programming Languages:
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
     
-- ☁️ Cloud
+- ☁️ Cloud:
     <img src="https://miro.medium.com/max/1000/1*iuHMDDfla-ZHWzZy4TtJZA.png" alt="Gcp"
     title="Gcp" width="6%" />
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
