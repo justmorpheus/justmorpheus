@@ -9,14 +9,12 @@
 - 📫 How to reach me justmorpheus@protonmail.com.
 - 📫 I have forked https://github.com/justm0rph3u5 , which is my reporsitory for forking security tools.
 
-## 👨‍💻Personal Blog
-- [Medium Link](https://justm0rph3u5.medium.com/)
  
  
-### 📕 Latest Blog Post
+### 📕 Blog Post(https://justm0rph3u5.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
+- [Automating Burp Scanning Via Rest API & Robot Framework Using Python3 | Robomation](https://justm0rph3u5.medium.com/burp-automation-automating-burp-scanning-via-rest-api-robot-framework-using-python3-78aebdd35c53)
 - [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
 - [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
 - [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
