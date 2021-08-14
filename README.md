@@ -35,9 +35,9 @@
 - ☁️ Cloud
 
     <img src="https://miro.medium.com/max/1000/1*iuHMDDfla-ZHWzZy4TtJZA.png" alt="Gcp"
-    title="Gcp" width="10%" />
+    title="Gcp" width="6%" />
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="10%" />
+    title="Azure" width="8%" />
     <img src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png" alt="AWS"
     title="AWS" width="6%" />
     
