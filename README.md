@@ -5,12 +5,12 @@
 
 
 - 🌱 I’m currently learning Automation,Cloud (Azure, GCP & AWS), Container, Javascript, ELK.
-- 💞️ I’m looking to collaborate on Cloud WAF, Burp Automation & Cloud Security
-- 📫 How to reach me justmorpheus@protonmail.com.
+- :collision: I’m looking to collaborate on Cloud WAF, Burp Automation & Cloud Security
+- :shipit: How to reach me justmorpheus@protonmail.com.
 - 📫 I have forked https://github.com/justm0rph3u5 , which is my reporsitory for forking security tools.
-- :zap:
+- :zap: Crew member of [Cloud village CTF crew 2020/2021](https://cloud-village.org/)
 
- 
+
  
 ### 📕 Blog Post(https://justm0rph3u5.medium.com/)
 
