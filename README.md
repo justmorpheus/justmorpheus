@@ -27,13 +27,14 @@
  
  ## 🛠️Tech Stack
  - 🎯 Information Security
-     ![Cloud Security]
-     ![Web Application]
-     ![Mobile(iOS/Android)]
-     ![Automation]
-     ![DevSecops]
-     ![SIEM/UEBA]
-     ![ELK]
+     - Cloud Security
+     - Web Application
+     - Mobile Security (iOS/Android)
+     - Automation
+     - DevSecops
+     - SIEM/UEBA
+     - ELK
+     - k8/Docker
   
 
 - 👨‍💻 Programming Languages
