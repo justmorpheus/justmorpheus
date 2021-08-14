@@ -13,7 +13,7 @@
 
 
  
-### 📕 Blog Post(https://justm0rph3u5.medium.com/)
+### 📕 [Blog Post](https://justm0rph3u5.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Bypassing Cloud WAF (AWS/AZURE/CRS - Comming SOOn](https://justm0rph3u5.medium.com/)
