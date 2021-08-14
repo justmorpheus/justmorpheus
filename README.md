@@ -33,6 +33,7 @@
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
     <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 - ☁️ Cloud
+
     <img src="https://miro.medium.com/max/1000/1*iuHMDDfla-ZHWzZy4TtJZA.png" alt="Gcp"
     title="Gcp" width="10%" />
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
