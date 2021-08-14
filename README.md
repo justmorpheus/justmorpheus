@@ -8,16 +8,24 @@
 - 💞️ I’m looking to collaborate on Cloud WAF, Burp Automation & Cloud Security
 - 📫 How to reach me justmorpheus@protonmail.com.
 - 📫 I have forked https://github.com/justm0rph3u5 , which is my reporsitory for forking security tools.
+- :zap:
 
  
  
 ### 📕 Blog Post(https://justm0rph3u5.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing Cloud WAF (AWS/AZURE/CRS - Comming SOOn](https://justm0rph3u5.medium.com/)
 - [Automating Burp Scanning Via Rest API & Robot Framework Using Python3 | Robomation](https://justm0rph3u5.medium.com/burp-automation-automating-burp-scanning-via-rest-api-robot-framework-using-python3-78aebdd35c53)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
+- [GCP Inspector | Auditing Publicly Exposed GCP Bucket](https://infosecwriteups.com/gcp-inspector-auditing-publicly-exposed-gcp-bucket-ac6cad55618c)
+- [Pentesting iOS| Starting With iOS Emulator Corellium & Re-signing IPA](https://infosecwriteups.com/pentesting-ios-starting-with-ios-emulator-corellium-re-signing-ipa-9ce3cbd19721)
+- [How To Setup Advance Nessus Network Scan?](https://infosecwriteups.com/how-to-setup-advance-nessus-network-scan-c7fcf89e417b)
+- [Automating Burp Suite -4 | Understanding And Customising Custom Header From Response Via Burp Macro — Writing Own Burp Extension](https://infosecwriteups.com/automating-burp-suite-4-understanding-and-customising-custom-header-from-response-via-burp-macro-214332dda012)
+- [Automating Burp Suite -3 | Creating Macro To Replace CSRF Token From Response Body To Request With Session Validation](https://infosecwriteups.com/automating-burp-suite-3-creating-macro-to-replace-csrf-token-from-response-body-to-request-param-de37eb54ab5f)
+- [Automating Burp Suite -1 | Capturing CSRF Token Via Macro](https://infosecwriteups.com/automating-burpsuite-1-capturing-csrf-token-via-macro-ef2f85565f75)
+- [Pentesting ISP 101 | How I hacked & fixed My ISP](https://infosecwriteups.com/pentesting-isp-101-how-i-hacked-fixed-my-isp-643e9201f7e9)
+- [Injecting Punycode URL Within the Arbitrary Text via Comment Box In Google Photo Sharing Option](https://infosecwriteups.com/injecting-punycode-url-within-the-arbitrary-text-via-comment-box-in-google-photos-sharing-option-8b424065deb3)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
