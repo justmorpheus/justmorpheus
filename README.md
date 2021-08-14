@@ -1,4 +1,5 @@
-### 👋 Hi, I’m Divyanshu Shukla, this repository is for my technical blogs.
+### 👋 Hi, I’m Divyanshu Shukla
+### This repository is for my technical blogs.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CloudSecurity;Infosec;Python;Automation;DevSecops;SIEM)](https://git.io/typing-svg)
 
