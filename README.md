@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justmorpheus, this repository is for Recruiters and Hiring Managers.
+### 👋 Hi, I’m @justmorpheus, this repository is for my technical blogs.
 - 👀 I’m interested in Information Security, Automation, DevSecops, Cloud Security, SIEM.
 - 🌱 I’m currently learning Automation,Cloud, Container, Javascript
 - 💞️ I’m looking to collaborate on Burp Automation
