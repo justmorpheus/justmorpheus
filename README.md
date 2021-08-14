@@ -26,11 +26,17 @@
 
  
  ## 🛠️Tech Stack
- - 👩‍💻 Information Security
-     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+ - 🎯 Information Security
+     ![Cloud Security]
+     ![Web Application]
+     ![Mobile(iOS/Android)]
+     ![Automation]
+     ![DevSecops]
+     ![SIEM/UEBA]
+     ![ELK]
   
 
-- 👩‍💻 Programming Languages
+- 👨‍💻 Programming Languages
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
     
