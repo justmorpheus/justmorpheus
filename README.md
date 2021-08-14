@@ -15,5 +15,8 @@ justmorpheus/justmorpheus is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![https://www.linkedin.com/in/iamdivyanshu/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Divyanshu Shukla [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iamdivyanshu/)
+
+
+
 ![Twitter](https://img.shields.io/twitter/follow/justm0rph3u5?style=social)
