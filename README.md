@@ -43,6 +43,8 @@
      - SIEM/UEBA
      - ELK
      - k8/Docker
+     - DAST/SAST
+     - Source Code Review
   
 
 - 👨‍💻 Programming Languages:
