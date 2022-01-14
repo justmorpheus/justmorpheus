@@ -26,7 +26,7 @@
 - [Automating Burp Suite -1 | Capturing CSRF Token Via Macro](https://infosecwriteups.com/automating-burpsuite-1-capturing-csrf-token-via-macro-ef2f85565f75)
 - [Pentesting ISP 101 | How I hacked & fixed My ISP](https://infosecwriteups.com/pentesting-isp-101-how-i-hacked-fixed-my-isp-643e9201f7e9)
 - [Injecting Punycode URL Within the Arbitrary Text via Comment Box In Google Photo Sharing Option](https://infosecwriteups.com/injecting-punycode-url-within-the-arbitrary-text-via-comment-box-in-google-photos-sharing-option-8b424065deb3)
-- [Basics of Root Detection Bypass via Objection & Frida](https://github.com/justmorpheus/BasicsOfRootDetection/blob/main/Basics.md)
+- [Basics of Root Detection Bypass via Objection & Frida](https://github.com/justmorpheus/BasicsOfRootDetection/blob/main/RootDetectionBypassBasics.md)
 
 <!-- BLOG-POST-LIST:END -->
 
