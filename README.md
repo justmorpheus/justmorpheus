@@ -9,14 +9,14 @@
 - :collision: I’m looking to collaborate on Cloud WAF, Burp Automation & Cloud Security
 - :shipit: How to reach me justmorpheus@protonmail.com.
 - 📫 I have forked https://github.com/justm0rph3u5 , which is my reporsitory for forking security tools.
-- :zap: Crew member of [Cloud village CTF crew 2020/2021](https://cloud-village.org/)
+- :zap: Crew member of [Cloud village CTF crew 2020/2021/2022](https://cloud-village.org/)
 
 
  
 ### 📕 [Blog Post](https://justm0rph3u5.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing Cloud WAF (AWS/AZURE/CRS - Comming SOOn](https://justm0rph3u5.medium.com/)
+- [Bypassing Cloud WAF (AWS/AZURE/GCP](https://infosecwriteups.com/module-1-introduction-pentesting-bypassing-cloud-waf-fun-profit-75f315951aa8)
 - [Automating Burp Scanning Via Rest API & Robot Framework Using Python3 | Robomation](https://justm0rph3u5.medium.com/burp-automation-automating-burp-scanning-via-rest-api-robot-framework-using-python3-78aebdd35c53)
 - [GCP Inspector | Auditing Publicly Exposed GCP Bucket](https://infosecwriteups.com/gcp-inspector-auditing-publicly-exposed-gcp-bucket-ac6cad55618c)
 - [Pentesting iOS| Starting With iOS Emulator Corellium & Re-signing IPA](https://infosecwriteups.com/pentesting-ios-starting-with-ios-emulator-corellium-re-signing-ipa-9ce3cbd19721)
